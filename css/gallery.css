@@ -1,0 +1,61 @@
+.top
+{
+  position: fixed;
+  font-family:Pacifico;
+  font-size: 18px;
+  color: #ffffff;
+  font-style: italic;
+}
+h2
+{
+  display: inline;
+  padding-right:20px;
+  text-align:justify;
+}
+body
+{
+  background-image: url("../img/brg.jpg");
+}
+.container_12
+{
+  position: relative;
+  top: 10px;
+}
+h1
+{
+  position: relative;
+  font-family:Crimson Text;
+  font-size: 30px;
+  color: #ffffff;
+  text-transform:capitalize;
+  width: 100%;
+  text-align: center;
+}
+.grid_4
+{
+  margin-top: 10px;
+  margin-right:10px;
+}
+.grid_4:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+.grid_4 .tool
+{
+  position: relative;
+  bottom: -50px;
+  background-color: #e3e3e3;
+  text-align: center;
+}
+.grid_4:hover .tool
+{
+  visibility: hidden;
+}
+li
+{
+ display: inline;
+ margin-left: 30px;
+ padding-right: 100px;
+}
