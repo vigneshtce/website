@@ -17,12 +17,16 @@ body
 }
 h1
 {
-  margin-top: 20px;
   font-family:Crimson Text;
   font-size: 30px;
   color: #ffffff;
   text-align: center;
-
+}
+li
+{
+ display: inline;
+ margin-left: 30px;
+ padding-right: 100px;
 }
 .grid_12
 {
@@ -36,10 +40,4 @@ p
   color: white;
   font-family:Crimson Text;
     padding-right: 30px;
-}
-li
-{
- display: inline;
- margin-left: 30px;
- padding-right: 100px;
 }
